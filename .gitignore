@@ -1,0 +1,23 @@
+# Virtual environment
+myenv/
+venv/
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset / model files
+/dataset/
+*.h5
+*.keras
+*.pkl
+*.csv
+*.zip
+
+# IDE and OS junk
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
