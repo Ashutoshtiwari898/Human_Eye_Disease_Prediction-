@@ -8,13 +8,6 @@ venv/
 __pycache__/
 *.pyc
 
-# Dataset / model files
-/dataset/
-*.h5
-*.keras
-*.pkl
-*.csv
-*.zip
 
 # IDE and OS junk
 .vscode/
